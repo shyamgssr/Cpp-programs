@@ -19,9 +19,8 @@ for(i = 1 ; i<=4 ; i++)
  cout <<"*" ;
  }
  cout <<endl;
- //cout << "*";
- }
- //cout <<endl;
+  }
+ 
 }
 
 
